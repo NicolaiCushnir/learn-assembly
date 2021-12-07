@@ -1,6 +1,6 @@
 # learn-assembly
 
-![image](img/kancolle.png)
+![image](img/check.png)
 
 ### learn assembly
 Why i want to learn assembly or why is needed for assembly language :
