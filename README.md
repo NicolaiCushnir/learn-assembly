@@ -36,3 +36,4 @@
 ### Links
 * [Stack Overflow](https://stackoverflow.com/questions/1360279/learning-assembly)
 * [tldp.org/HOWTO/](https://tldp.org/HOWTO/Assembly-HOWTO/index.html)
+* [GitHUb Course : Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering)
