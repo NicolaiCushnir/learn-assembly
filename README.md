@@ -32,6 +32,7 @@
 
 ### You Tube Video
 * [Ilya Zimin](https://www.youtube.com/watch?v=T7h4siKcpbc&t=44s)
+* [Alek OS](https://www.youtube.com/watch?v=PHyIP9g9BQw&list=PLIJLLSrXDPoi7-5NMWzpzMUtSxNoH3TBW&ab_channel=AlekOS)
 
 ### Links
 * [Stack Overflow](https://stackoverflow.com/questions/1360279/learning-assembly)
