@@ -16,6 +16,7 @@
 * Mai bine să înțelegi C++.
 * Lucrul cu `bits and bytes`. (Desigur poți să faci asta în C Language sau C++.)
 * Reverse Engineering
+* Язык Ассемблер даёт полный контроль над кодом и обладает большей гибкостью, чем любой другой язык программирования (даже C/C++)
 * Și probabil alte chestii...
 
 ### Why i want to learn assembly ?  
