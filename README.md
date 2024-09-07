@@ -23,6 +23,7 @@
 * Sincer nu știu... Lucrez atunci cînd am dorința... Probabil mii interesant...
 
 ### List with assembly topics:
+* архитектуры (x86-64: для 64-битных систем, ARM,  Изучите, как работает центральный процессор (CPU), память и взаимодействие между ними. Важно понимать концепции регистров, стеков и указателей. )
 * [First Program](md/HELLO_WORLD.md)
 * [Tasks](md/TASKS.md)
 * [Questions](md/QUESTIONS.md)
