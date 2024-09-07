@@ -8,8 +8,8 @@
 * Sincer nu știu... Lucrez atunci cînd am dorința... Probabil mii interesant...
 
 ### List with assembly topics :
-* [Основы Архитектуры](BASIC_OF_ARHITECTURE.md)
-* [Выбор Архитектуры](CHOICE_ARHITECTURE.md) 
+* [Основы Архитектуры](md/BASIC_OF_ARHITECTURE.md)
+* [Выбор Архитектуры](md/CHOICE_ARHITECTURE.md) 
 * [Possibilities](md/POSSIBILITIES.md)
 * [Основные команды](md/BASIC_COMMANDS.md)
 * [First Program](md/HELLO_WORLD.md)
