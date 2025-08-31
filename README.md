@@ -6,6 +6,7 @@
 
 ### Why i want to learn assembly ?  
 * Sincer nu știu... Lucrez atunci cînd am dorința... Probabil mii interesant...
+* Pentru jocuri. Spre exemplu Pess 2013. Trebuie să dezasamblez `Pess 2013.exe`. Motivul e să joc prin LAN cu cineva.
 
 ### List with assembly topics :
 * [Основы Архитектуры](md/BASIC_OF_ARHITECTURE.md)
